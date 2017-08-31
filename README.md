@@ -1,7 +1,7 @@
 # Inventrom_CamApp
 Question Two [Camera and Statistics App ANDROID]
 
-CHECK PHOTOSTAT.mp4 FOR THE WORKING OF THE APP
+CHECK PhotoStats.mp4 FOR THE WORKING OF THE APP
 
 Create an android app with the following flow:
 1. The app should have two tabs on the home screen: Actions, Show List
