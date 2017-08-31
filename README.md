@@ -3,6 +3,7 @@ Question Two [Camera and Statistics App ANDROID]
 
 CHECK PhotoStats.mp4 FOR THE WORKING OF THE APP
 
+******************************************************************************************************************************
 Create an android app with the following flow:
 1. The app should have two tabs on the home screen: Actions, Show List
 2. On the Actions tab there should be a button with title ‘Click Picture’
